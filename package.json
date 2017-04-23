@@ -38,6 +38,7 @@
     "lodash": "^4.13.1"
   },
   "dependencies": {
-    "asn1": "0.2.3"
+    "asn1": "0.2.3",
+    "node-constants": "*"
   }
 }

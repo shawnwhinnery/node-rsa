@@ -7,7 +7,7 @@
  * License BSD
  */
 
-var constants = require('constants');
+var constants = require('node-constants');
 var rsa = require('./libs/rsa.js');
 var crypt = require('crypto');
 var ber = require('asn1').Ber;
